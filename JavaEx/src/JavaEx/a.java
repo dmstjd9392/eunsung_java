@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class a {
 
 	public static void main(String[] args) {
-		System.out.print("홀수를 입력하세요:");
+		System.out.print("짝수를 입력하세요:");
 		 Scanner sc = new Scanner(System.in);
 	        int N = sc.nextInt();
 	         
